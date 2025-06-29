@@ -2,7 +2,7 @@
 I'm a dedicated mobile application developer with a passion for transforming complex problems into intuitive, high-performance Android applications.
 
 🌐 Portfolio
-Explore my work: arefin.binarybardbd.com
+Explore my work: [arefin.binarybardbd.com](http://arefin.binarybardbd.com/)
 
 📱 What I Do
 I specialize in building robust Android apps using Java, combining clean architecture with smooth user experiences. My focus is on creating practical solutions that make a real difference.
