@@ -1,74 +1,92 @@
-<h1 align="center">👋 Hi, I’m Arefin</h1>
+<h1 align="center">👋 Hi, I’m Nurul Arefin Nabil</h1>
 
 <p align="center">
-🚀 <b>Mobile Application Developer</b> | 💡 Problem-Solver | 🎯 Passionate About Clean Code
+🎓 <b>Computer Science Student @ Uttara University</b> | 📱 <b>Mobile App Developer</b> | 🌱 <b>AI/ML Enthusiast</b>  
+</p>
+
+<p align="center">
+<a href="mailto:nurularefinnabil@gmail.com">📧 Email</a> • 
+<a href="tel:+8801881196146">📞 Call</a> • 
+<a href="https://arefin.binarybardbd.com/">🌐 Portfolio</a> • 
+<a href="https://linkedin.com/in/n-arefin-nabil">💼 LinkedIn</a> • 
+<a href="https://github.com/arefin-nabil">💻 GitHub</a>
 </p>
 
 ---
 
-## 🌟 About Me  
-I’m a dedicated **Android developer** who loves transforming complex ideas into **intuitive, high-performance apps**.  
-I believe that **clean architecture** + **smooth UX** = apps users love.
+## 🧾 Summary  
+I'm a **Computer Science student** with hands-on experience in **Android development**, backend integration, and building **data-driven applications**.  
+Currently exploring **AI/ML** and strengthening my **problem-solving skills** with competitive programming.  
+I’m eager to collaborate, learn from industry projects, and grow as a **full-stack developer & ML practitioner**.
 
 ---
 
-## 🌐 Portfolio  
-📂 **Explore my work:**  
-🔗 [arefin.binarybardbd.com](https://arefin.binarybardbd.com)
+## 🚀 Projects  
+
+### 🐍 **Snakes of Bangladesh**  
+📱 **Android App** built to raise **snakebite awareness** and help users find **rescuers & hospitals** nearby.  
+- 🔗 [Play Store Link](https://play.google.com/store/apps/details?id=com.binarybardbd.snakesofbangladesh)  
+- 🌐 [Website](https://www.snakesofbd.binarybardbd.com)  
+- ⚙️ **Tech Used:** Java, PHP, MySQL, JSON  
+- 🖼 Dynamic content display with scrollable lists  
+- 📚 Detailed articles, FAQ, contact directory  
 
 ---
 
-## 📱 What I Do  
-- 💻 **Mobile Development:** Build scalable, robust Android apps using **Java**  
-- 🗄️ **Database Management:** MySQL, SQLite  
-- 🔗 **API & Backend Integration:** PHP, RESTful APIs, JSON  
-- ⚙️ **Custom Backend Development:** Seamless mobile-to-server communication  
+### 🕊 **July 2024 Martyrs App**  
+A tribute app honoring those who sacrificed their lives during the **July 2024 movement**.  
+- 🔗 [GitHub Repository](https://github.com/arefin-nabil/July-2024)  
+- ⚙️ **Tech Used:** Java, PHP, MySQL, JSON  
+- 🖼 Displays names, images, and detailed profiles dynamically  
 
 ---
 
-## 🛠️ Tech Stack  
+## 🎓 Education  
+**B.Sc. in Computer Science & Engineering**  
+📍 Uttara University | 📅 May 2022 – Present  
+
+---
+
+## 🛠️ Skills & Tools  
+
+**Programming:** `Java` • `PHP` • `C` • `C++` • `Python (learning)`  
+**Databases:** `MySQL` • `SQLite`  
+**Web Basics:** `HTML` • `JavaScript (basic)` • `WordPress`  
+**Platforms & Tools:** `Android Studio` • `Git` • `GitHub`  
+**API Integration:** `REST APIs` • `JSON`  
+**Soft Skills:** `Teamwork` • `Adaptability` • `Technical Communication`  
+
+---
+
+## 📚 Currently Learning  
+- 🧩 **Data Structures & Algorithms** (practicing regularly on Codeforces, Leetcode)  
+- 🤖 **Machine Learning** (basics with Python, NumPy, Pandas)  
+
+---
+
+## 🎯 Interest Areas  
+- 🖥 Software Development  
+- 📱 Web & Mobile Applications  
+- 🧠 Machine Learning & AI  
+
+---
+
+## 📊 GitHub Stats  
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Android-%233DDC84.svg?&style=for-the-badge&logo=android&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLite-%2307405e.svg?&style=for-the-badge&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://github-readme-stats.vercel.app/api?username=arefin-nabil&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" height="160px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arefin-nabil&theme=tokyonight&hide_border=true&border_radius=12" height="160px" />
 </p>
 
 ---
 
-## 💡 My Philosophy  
-I thrive on:
-- 🔎 **Finding elegant solutions** to real-world problems  
-- 🏗 **Building scalable, maintainable architecture**  
-- 🤝 **Collaborating** with teams to create impactful products  
-
----
-
-## 🚀 Let’s Build Something Great  
-- 🆕 Collaborate on new ideas  
-- 🔧 Optimize existing apps  
-- ⚡ Build scalable backend services  
-
-📩 **Reach out — let’s turn ideas into reality!**
-
----
-
-## 📊 GitHub Insights  
+## 🌐 Online Profiles  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arefin-nabil&show_icons=true&theme=radical&hide_border=true&border_radius=12" alt="GitHub Stats" height="160px" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arefin-nabil&theme=radical&hide_border=true&border_radius=12" alt="GitHub Streak" height="160px" />
+  <a href="https://hackerrank.com/profile/arefin_nabil"><img src="https://img.shields.io/badge/Hackerrank-%2300EA64.svg?&style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
+  <a href="https://codeforces.com/profile/arefin_nabil"><img src="https://img.shields.io/badge/Codeforces-%231F8ACB.svg?&style=for-the-badge&logo=codeforces&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/arefin_nabil/"><img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?&style=for-the-badge&logo=leetcode&logoColor=white" /></a>
+  <a href="https://github.com/arefin-nabil"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 ---
 
-## 🌐 Connect With Me  
-<p align="center">
-  <a href="https://arefin.binarybardbd.com/"><img src="https://img.shields.io/badge/🌐 Portfolio-%230077B5.svg?&style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
-  <a href="mailto:nurularefinnabil@gmail.com"><img src="https://img.shields.io/badge/📧 Email-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/n-arefin-nabil/"><img src="https://img.shields.io/badge/💼 LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-</p>
-
----
-
-⭐ **Fun Fact:** The cleaner the code, the happier I am 😁  
+⭐ **Fun Fact:** I enjoy solving problems late at night — because bugs fear the dark 😆
