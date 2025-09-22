@@ -71,11 +71,44 @@ A tribute app honoring those who sacrificed their lives during the **July 2024 m
 
 ---
 
-## 📊 GitHub Stats  
+<!--## 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=arefin-nabil&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" height="160px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arefin-nabil&theme=tokyonight&hide_border=true&border_radius=12" height="160px" />
+</p> -->
+
+## 📊 GitHub Stats & Activity  
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=arefin-nabil&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" height="160px" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=arefin-nabil&theme=tokyonight&hide_border=true&border_radius=12" height="160px" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arefin-nabil&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" height="150px"/>
+</p>
+
+---
+
+### 🏆 GitHub Trophies  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=arefin-nabil&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
+</p>
+
+---
+
+### 📈 Contribution Graph  
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arefin-nabil&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+### 🐍 Contribution Snake  
+<p align="center">
+  <img src="https://github.com/arefin-nabil/arefin-nabil/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
 
 ---
 
@@ -85,6 +118,7 @@ A tribute app honoring those who sacrificed their lives during the **July 2024 m
   <a href="https://codeforces.com/profile/arefin_nabil"><img src="https://img.shields.io/badge/Codeforces-%231F8ACB.svg?&style=for-the-badge&logo=codeforces&logoColor=white" /></a>
   <a href="https://leetcode.com/u/arefin_nabil/"><img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?&style=for-the-badge&logo=leetcode&logoColor=white" /></a>
   <a href="https://github.com/arefin-nabil"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/n-arefin-nabil/"><img src="https://img.shields.io/badge/💼 LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 ---
