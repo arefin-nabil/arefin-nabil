@@ -12,8 +12,6 @@
 <a href="https://github.com/arefin-nabil">💻 GitHub</a>
 </p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arefin-nabil&layout=compact&theme=tokyonight&cache_seconds=1800" />
-
 ---
 
 <p align="left">
@@ -106,6 +104,7 @@ A tribute app honoring those who sacrificed their lives during the **July 2024 m
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arefin-nabil&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" height="150px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arefin-nabil&layout=compact&theme=tokyonight&cache_seconds=1800" />
 </p>
 
 ---
