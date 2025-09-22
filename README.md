@@ -15,7 +15,8 @@
 ---
 
 <p align="center">
-  ![Profile Views](https://komarev.com/ghpvc/?username=arefin-nabil&style=for-the-badge&color=blue)
+ ![Profile Views](https://komarev.com/ghpvc/?username=arefin-nabil&label=Profile%20Views&color=0e75b6&style=flat)
+
 </p>
 
 ## 🧾 Summary  
