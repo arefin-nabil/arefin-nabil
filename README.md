@@ -15,7 +15,8 @@
 ---
 
 <p align="center">
- ![Profile Views](https://komarev.com/ghpvc/?username=arefin-nabil&label=Profile%20Views&color=0e75b6&style=flat)
+![Profile Views](https://img.shields.io/badge/dynamic/json?color=success&label=Profile%20Views&query=value&url=https://api.countapi.xyz/hit/arefin-nabil.readme/visits)
+
 
 </p>
 
