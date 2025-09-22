@@ -14,6 +14,10 @@
 
 ---
 
+<p align="center">
+  ![Profile Views](https://komarev.com/ghpvc/?username=arefin-nabil&style=for-the-badge&color=blue)
+</p>
+
 ## 🧾 Summary  
 I'm a **Computer Science student** with hands-on experience in **Android development**, backend integration, and building **data-driven applications**.  
 Currently exploring **AI/ML** and strengthening my **problem-solving skills** with competitive programming.  
