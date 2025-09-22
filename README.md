@@ -102,9 +102,7 @@ A tribute app honoring those who sacrificed their lives during the **July 2024 m
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=arefin-nabil&theme=tokyonight&hide_border=true&border_radius=12" height="160px" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arefin-nabil&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" height="150px"/>
-</p>
+
 
 ---
 
@@ -114,6 +112,12 @@ A tribute app honoring those who sacrificed their lives during the **July 2024 m
 </p>
 
 ---
+
+
+### 📈 Contribution Graph  
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arefin-nabil&theme=tokyo-night&hide_border=true" />
+</p>
 
 
 ---
