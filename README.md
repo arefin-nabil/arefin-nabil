@@ -115,10 +115,6 @@ A tribute app honoring those who sacrificed their lives during the **July 2024 m
 
 ---
 
-### 📈 Contribution Graph  
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arefin-nabil&theme=tokyo-night&hide_border=true" />
-</p>
 
 ---
 
