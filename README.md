@@ -12,6 +12,8 @@
 <a href="https://github.com/arefin-nabil">💻 GitHub</a>
 </p>
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arefin-nabil&layout=compact&theme=tokyonight&cache_seconds=1800" />
+
 ---
 
 <p align="left">
