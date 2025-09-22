@@ -14,11 +14,10 @@
 
 ---
 
-<p align="center">
-![Profile Views](https://img.shields.io/badge/dynamic/json?color=success&label=Profile%20Views&query=value&url=https://api.countapi.xyz/hit/arefin-nabil.readme/visits)
-
-
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=arefin-nabil&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
+
 
 ## 🧾 Summary  
 I'm a **Computer Science student** with hands-on experience in **Android development**, backend integration, and building **data-driven applications**.  
