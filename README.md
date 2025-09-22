@@ -47,17 +47,6 @@ A tribute app honoring those who sacrificed their lives during the **July 2024 m
 
 ---
 
-## 🛠️ Skills & Tools  
-
-**Programming:** `Java` • `PHP` • `C` • `C++` • `Python (learning)`  
-**Databases:** `MySQL` • `SQLite`  
-**Web Basics:** `HTML` • `JavaScript (basic)` • `WordPress`  
-**Platforms & Tools:** `Android Studio` • `Git` • `GitHub`  
-**API Integration:** `REST APIs` • `JSON`  
-**Soft Skills:** `Teamwork` • `Adaptability` • `Technical Communication`  
-
----
-
 ## 📚 Currently Learning  
 - 🧩 **Data Structures & Algorithms** (practicing regularly on Codeforces, Leetcode)  
 - 🤖 **Machine Learning** (basics with Python, NumPy, Pandas)  
