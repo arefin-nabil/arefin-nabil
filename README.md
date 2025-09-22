@@ -43,8 +43,8 @@ I’m always excited to create something impactful.
 
 ## 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="160px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" alt="Top Languages" height="160px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=arefin-nabil&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="160px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arefin-nabil&layout=compact&theme=tokyonight" alt="Top Languages" height="160px"/>
 </p>
 
 ---
@@ -52,6 +52,6 @@ I’m always excited to create something impactful.
 ## 🌐 Connect With Me  
 <p align="center">
   <a href="https://arefin.binarybardbd.com/"><img src="https://img.shields.io/badge/Portfolio-%230077B5.svg?&style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:nurularefinnabil@gmail.com"><img src="https://img.shields.io/badge/Email-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="[https://www.linkedin.com/in/n-arefin-nabil](https://www.linkedin.com/in/n-arefin-nabil/)"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
