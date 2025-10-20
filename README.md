@@ -98,13 +98,14 @@ A tribute app honoring those who sacrificed their lives during the **July 2024 m
 ## 📊 GitHub Stats & Activity  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arefin-nabil&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" height="160px" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=arefin-nabil&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" height="160px" /> -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=arefin-nabil&theme=tokyonight&hide_border=true&border_radius=12" height="160px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arefin-nabil&layout=compact&theme=tokyonight&cache_seconds=21600&hide_border=true&border_radius=12" height="160px"/>
 </p>
 
-<p align="center">
+<!-- <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arefin-nabil&layout=compact&theme=tokyonight&cache_seconds=21600&hide_border=true&border_radius=12" height="150px"/>
-</p>
+</p> -->
 
 ---
 
