@@ -131,7 +131,3 @@ A tribute app honoring those who sacrificed their lives during the **July 2024 m
   <a href="https://github.com/arefin-nabil"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/n-arefin-nabil/"><img src="https://img.shields.io/badge/💼 LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
-
----
-
-⭐ **Fun Fact:** I enjoy solving problems late at night — because bugs fear the dark 😆
