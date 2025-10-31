@@ -3,7 +3,6 @@
 <p align="center">
 🎓 <b>Computer Science Student @ Uttara University</b> | 📱 <b>Mobile App Developer</b> | 🌱 <b>AI/ML Enthusiast</b>  
 </p>
-
 <p align="center">
 <a href="mailto:nurularefinnabil@gmail.com">📧 Email</a> • 
 <a href="tel:+8801881196146">📞 Call</a> • 
@@ -11,7 +10,6 @@
 <a href="https://linkedin.com/in/n-arefin-nabil">💼 LinkedIn</a> • 
 <a href="https://github.com/arefin-nabil">💻 GitHub</a>
 </p>
-
 ---
 
 <p align="left">
