@@ -92,18 +92,7 @@ A tribute app honoring those who sacrificed their lives during the **July 2024 m
   <img src="https://img.shields.io/badge/Photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
 </p>
 
----
-
-<p align="center">
-  <!-- Highlight Section -->
-  <img src="https://img.shields.io/badge/🔥_Highlighted_Skills_-FF4500?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Jupyter%20Lab-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
-</p>
-
-
+--- 
 
 ## 📊 GitHub Stats & Activity  
 
