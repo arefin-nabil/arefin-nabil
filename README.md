@@ -10,7 +10,8 @@
 <a href="https://linkedin.com/in/n-arefin-nabil">💼 LinkedIn</a> • 
 <a href="https://github.com/arefin-nabil">💻 GitHub</a>
 </p>
----
+
+--- 
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=arefin-nabil&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
