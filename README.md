@@ -97,13 +97,36 @@ A tribute app honoring the martyrs of the **July 2024 movement**.
 
 ---
 
-## 📊 GitHub Stats & Activity  
+## 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=arefin-nabil&theme=tokyonight&hide_border=true&border_radius=12" height="160px" />
-  
-  <img src="https://github-readme-stats-git-masterorgs-projects.vercel.app/api/top-langs/?username=arefin-nabil&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&cache_seconds=86400" height="160px"/>
+  <!-- Streak (stable alternative) -->
+  <img src="https://streak-stats.demolab.com?user=arefin-nabil&theme=tokyonight&hide_border=true&border_radius=12" height="140px" />
+
+  <!-- GitHub Readme Stats (official/mirror) -->
+  <img src="https://github-readme-stats-git-masterorgs-projects.vercel.app/api?username=arefin-nabil&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&cache_seconds=86400" height="140px" />
+
+  <!-- Top Languages (official/mirror) -->
+  <img src="https://github-readme-stats-git-masterorgs-projects.vercel.app/api/top-langs/?username=arefin-nabil&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&cache_seconds=86400" height="140px"/>
 </p>
+
+<p align="center">
+  <!-- Contribution Graph (alternate that often works when GitHub API rate-limits) -->
+  <img src="https://ghchart.rshah.org/arefin-nabil" alt="Contribution chart for arefin-nabil" />
+</p>
+
+<p align="center">
+  <!-- Trophies -->
+  <img src="https://github-profile-trophy.vercel.app/?username=arefin-nabil&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
+</p>
+
+<!--
+If any image still fails, try these quick swaps:
+- Streak fallback: https://github-readme-streak-stats.herokuapp.com/?user=arefin-nabil&theme=tokyonight
+- Stats fallback: https://github-readme-stats.vercel.app/api?username=arefin-nabil&show_icons=true&theme=tokyonight
+- If "Failed to retrieve contributions" appears, ghchart.rshah.org is a reliable alternative for the contribution graph.
+-->
+
 
 ---
 
