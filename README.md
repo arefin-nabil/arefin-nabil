@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Dynamic Animated Typing Header -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=false&width=550&height=50&lines=Hi+there!+%F0%9F%91%8B+I'm+Nurul+Arefin+Nabil;Mobile+App+Developer+(Flutter+%26+Android);AI+%26+Machine+Learning+Enthusiast;Problem+Solver+%7C+CS+Undergrad" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=false&width=550&height=50&lines=Hi+there!+%F0%9F%91%8B+I'm+Nurul+Arefin+Nabil;Mobile+App+Developer+(Android);AI+%26+Machine+Learning+Enthusiast;Problem+Solver+%7C+CS+Undergrad" alt="Typing SVG" />
 
   <p>
     🎓 <b>Computer Science & Engineering Student</b> @ <b>Uttara University</b><br>
